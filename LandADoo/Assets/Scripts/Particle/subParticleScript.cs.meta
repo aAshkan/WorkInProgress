@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66608065f7cce614ab592fc4a93f2a2f
+timeCreated: 1456366027
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_currentParticleEffect: {fileID: 19872126, guid: 3158a7038b2b93149bdef136d1e6fad4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

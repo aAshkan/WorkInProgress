@@ -1,0 +1,26 @@
+[
+	{
+		"id": 0,
+		"title": "Steel Sword",
+		"value": 6,
+		"stats": {
+			"speed": 1
+		},
+		"description": "Sword made from steel",
+		"stackable": false,
+		"slug": "steel_sword",
+		"location": ""
+	},
+	{
+		"id": 1,
+		"title": "White Glove",
+		"value": 6,
+		"stats": {
+			"speed": 2
+		},
+		"description": "A stick that is great",
+		"stackable": true,
+		"slug": "white_glove",
+		"location": ""
+	}
+]

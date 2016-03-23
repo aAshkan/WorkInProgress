@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 59dd1b8bb4065e24c8695ce2c27d34e7
+timeCreated: 1456832874
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BirdGO: {fileID: 112442, guid: 14b6ae546aef5448f9caadfb7298fc56, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
