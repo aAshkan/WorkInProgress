@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/healer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CloneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/attacker.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/characters.cs" Line="167" Column="37" />
+      <File FileName="Assets/Scripts/CreateClone.cs" Line="123" Column="20" />
+      <File FileName="Assets/Scripts/gameManager.cs" Line="154" Column="1" />
+      <File FileName="Assets/Scripts/AlphaBeta.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ListState.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/playerStateNode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/diagonaller.cs" Line="42" Column="18" />
+      <File FileName="Assets/Scripts/draggable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DistUtility.cs" Line="7" Column="6" />
+      <File FileName="Assets/Scripts/healer.cs" Line="77" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
